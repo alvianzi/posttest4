@@ -1,0 +1,6 @@
+package com.example.posttest4
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
